@@ -29,7 +29,17 @@
 ---
 ## 10/20 (목)
 - Stack 구현
+  - peek(), isEmpty() 구현
+  - 테스트 코드 작성
+- 토비의 스프링 
+  - UserDao
+    - 예외처리
+    - deleteAll(), count() 구현
+    - 리소스 반환 close()
+  - 테스트 코드
+    - @BeforeEach @AfterEach
+    - assertThrows()
 
 ---
 ## 10/21 (금)
-- ㅁ
+- 
