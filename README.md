@@ -23,12 +23,12 @@
 
 ### 주요 프로젝트 결과물
 #### 1. 환자 키 분포 시각화 👉 [레포지토리 이동](https://github.com/wogus0518/LikeLion-Backend/tree/main/Class/src/week3/date221007/miniProject)
-<div align="center"><img src="img/patientHeight.png" width="400" height="200"></div>
+<div align="center"><img src="resources/img/patientHeight.png" width="400" height="200"></div>
 
 #### 2. 서울 전출입 비율 시각화 👉 [레포지토리 이동](https://github.com/wogus0518/LikeLion-Backend/tree/main/Class/src/week3/date221007/miniProject)
-<div align="center"><img src="img/sidoPiechart.png" width="300" height="300"></div>
+<div align="center"><img src="resources/img/sidoPiechart.png" width="300" height="300"></div>
 
 #### 3. 공공데이터에서 필요한 정보만을 추출한 후 .sql 파일 생성 👉 [레포지토리 이동](https://github.com/wogus0518/likelion-gradle-01)
-<div align="center"><img src="img/hospitalSql.png" width="300" height="300"></div>
+<div align="center"><img src="resources/img/hospitalSql.png" width="300" height="300"></div>
 
 #### 4. 토비의 스프링3-1 👉 [레포지토리 이동](https://github.com/wogus0518/likelion-spring)
